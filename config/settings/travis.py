@@ -98,7 +98,7 @@ MANAGERS = ADMINS
 DATABASES = {
     'default': {
         'ENGINE':   'django.db.backends.postgresql_psycopg2',
-        'NAME':     'chamados',
+        'NAME':     'cmcldap',
         'USER':     'postgres',
         'HOST':     'localhost',
         'PORT':     '5432',
